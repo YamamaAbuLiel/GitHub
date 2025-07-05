@@ -1,5 +1,5 @@
 
-#Bikeshare Data Analysis
+# Bikeshare Data Analysis
 This project analyzes bikeshare data for three major US cities: Chicago, New York City, and Washington. The script allows users to explore various statistics about bikeshare trips, including popular travel times, station usage, trip durations, and user demographics.
 
 ##Features
