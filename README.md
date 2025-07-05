@@ -56,3 +56,10 @@ Enter a day: Specify a day of the week (e.g., 'monday', 'tuesday') or 'all' to i
 After your selections, the script will display the requested statistics. You will also have an option to view raw data.
 
 ## Example Interaction:
+![image](https://github.com/user-attachments/assets/265bc1c2-2de9-465a-a42d-2ad46e0e594d)
+
+ ## Project Structure
+bikeshare_analysis.py: The main Python script containing all the functions for data loading, analysis, and display.
+
+chicago.csv, new_york_city.csv, washington.csv: (Not included, assumed to be present) CSV files containing the bikeshare data for each city.
+
