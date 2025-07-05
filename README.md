@@ -5,7 +5,7 @@ This project analyzes bikeshare data for three major US cities: Chicago, New Yor
 ## Features
 Interactive Data Filtering: Filter data by city, month (January to June), and day of the week.
 
-##Trip Statistics:
+## Trip Statistics:
 
 Most frequent month, day, and hour of travel.
 
