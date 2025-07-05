@@ -2,7 +2,7 @@
 # Bikeshare Data Analysis
 This project analyzes bikeshare data for three major US cities: Chicago, New York City, and Washington. The script allows users to explore various statistics about bikeshare trips, including popular travel times, station usage, trip durations, and user demographics.
 
-##Features
+## Features
 Interactive Data Filtering: Filter data by city, month (January to June), and day of the week.
 
 ##Trip Statistics:
@@ -15,7 +15,7 @@ Most frequent trip combinations (start and end stations).
 
 Total and average trip durations.
 
-##User Statistics:
+## User Statistics:
 
 Counts of different user types (e.g., Subscribers, Customers).
 
@@ -25,7 +25,7 @@ Birth year statistics (earliest, most recent, and most common birth year, if ava
 
 Raw Data Display: Option to view raw trip data in chunks of 5 rows.
 
-##How to Run
+## How to Run
 Prerequisites:
 
 Python 3.x installed.
@@ -55,4 +55,4 @@ Enter a day: Specify a day of the week (e.g., 'monday', 'tuesday') or 'all' to i
 
 After your selections, the script will display the requested statistics. You will also have an option to view raw data.
 
-##Example Interaction:
+## Example Interaction:
