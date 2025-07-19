@@ -63,3 +63,13 @@ bikeshare_analysis.py: The main Python script containing all the functions for d
 
 chicago.csv, new_york_city.csv, washington.csv: (Not included, assumed to be present) CSV files containing the bikeshare data for each city.
 
+##Future Enhancements
+Visualization: Integrate data visualization libraries (e.g., Matplotlib, Seaborn) to create charts and graphs for better insights into the data.
+
+More Cities: Expand the analysis to include bikeshare data from additional cities, making the tool more versatile.
+
+Advanced Filtering Options: Add more sophisticated filtering options, such as filtering by specific time ranges within a day, or by age groups for user demographics.
+
+API Integration: Explore integrating with bikeshare APIs to fetch real-time data or more up-to-date datasets.
+
+Error Handling Improvements: Enhance error handling for user inputs to provide more robust and user-friendly feedback.
